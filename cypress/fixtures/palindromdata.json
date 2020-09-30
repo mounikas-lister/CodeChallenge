@@ -1,0 +1,11 @@
+{
+    "palindromstring": "civic",
+    "case_sensitive_palindromstring": "CiviC",
+    "case_sensitive_not_palindromstring": "Civic",
+    "alpha_numeric_sc_palindromstring": "36@a@63",
+    "alpha_numeric_sc_not_palindromstring": "36@a@hj3",
+    "not_palindromstring": "testing",
+    "palindromnumber": "12321",
+    "not_palindromnumber": "12548",
+    "emptystring": ""
+  }

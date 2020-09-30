@@ -1,0 +1,8 @@
+{
+    "string_without_whitespace": "testcase",
+    "whitespace_inbetween_string": "test   case",
+    "whitespace_before_string": " testcase",
+    "whitespace_after_string": "testcase ",
+    "whitespace_before_after_inbetween_string": " test case ",
+    "emptystring": " "
+  }
